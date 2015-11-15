@@ -20,6 +20,7 @@ build/
 !default.perspectivev3
 xcuserdata
 *.xccheckout
+profile
 *.moved-aside
 DerivedData
 *.hmap
@@ -28,3 +29,9 @@ DerivedData
 
 # CocoaPods
 Pods
+
+# Bundler
+.bundle
+
+# Carthage
+Carthage/
